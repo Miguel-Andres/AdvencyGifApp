@@ -1,6 +1,24 @@
+.App {
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-.App{
+.Icon-list {
+  display: flex;
+  margin: 10px;
+  list-style-image:  url("gifts.png") ;
+  justify-content: space-around;
+  flex-direction: column;
 
-  background-color: aqua;
- text-align: center;
+  padding: 2  px;
+
+}
+
+.Icon-list li {
+  font-size: 30px;
+  margin :50 px;
+ 
+  padding: 10px;
 }
