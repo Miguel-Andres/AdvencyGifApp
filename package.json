@@ -7,6 +7,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@lottiefiles/lottie-player": "^1.5.3",
+    "@lottiefiles/react-lottie-player": "^3.4.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
